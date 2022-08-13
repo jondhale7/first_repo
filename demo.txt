@@ -6,5 +6,5 @@
 006|Dwight|12|pune|03-08-1995
 007|Steve|16|patna|22-01-1996
 008|Shroud|22|patna|02-09-1992
-009|Fazzel|11|mum|09-03-1995
+009|Princes|11|mum|09-03-1995
 010|Simple|13|pune|12-02-1995
