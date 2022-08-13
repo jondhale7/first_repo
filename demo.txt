@@ -1,0 +1,10 @@
+001|James|18|mum|02-03-1994
+002|Smith|15|pune|31-04-1992
+003|Albie|32|mum|05-11-1992
+004|Stacy|33|patna|02-04-1994
+005|Morgan|11|mum|28-03-1994
+006|Dwight|12|pune|03-08-1995
+007|Steve|16|patna|22-01-1996
+008|Shroud|22|patna|02-09-1992
+009|Faze|11|mum|09-03-1995
+010|Simple|13|pune|12-02-1995
